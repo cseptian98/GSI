@@ -41,9 +41,9 @@ namespace nomorLantai
         }
         static void Main(string[] args)
         {
-            nomorLantai(7);
-            nomorLantai(16);
-            nomorLantai(33);
+            Console.WriteLine("Masukkan nomor loker:");
+            int loker = Convert.ToInt32(Console.ReadLine());
+            nomorLantai(loker);
         }
     }
 }
