@@ -1,0 +1,13 @@
+D:\Project\C#\nomorLantai\bin\Debug\netcoreapp3.1\nomorLantai.exe
+D:\Project\C#\nomorLantai\bin\Debug\netcoreapp3.1\nomorLantai.deps.json
+D:\Project\C#\nomorLantai\bin\Debug\netcoreapp3.1\nomorLantai.runtimeconfig.json
+D:\Project\C#\nomorLantai\bin\Debug\netcoreapp3.1\nomorLantai.runtimeconfig.dev.json
+D:\Project\C#\nomorLantai\bin\Debug\netcoreapp3.1\nomorLantai.dll
+D:\Project\C#\nomorLantai\bin\Debug\netcoreapp3.1\nomorLantai.pdb
+D:\Project\C#\nomorLantai\obj\Debug\netcoreapp3.1\nomorLantai.csprojAssemblyReference.cache
+D:\Project\C#\nomorLantai\obj\Debug\netcoreapp3.1\nomorLantai.AssemblyInfoInputs.cache
+D:\Project\C#\nomorLantai\obj\Debug\netcoreapp3.1\nomorLantai.AssemblyInfo.cs
+D:\Project\C#\nomorLantai\obj\Debug\netcoreapp3.1\nomorLantai.csproj.CoreCompileInputs.cache
+D:\Project\C#\nomorLantai\obj\Debug\netcoreapp3.1\nomorLantai.dll
+D:\Project\C#\nomorLantai\obj\Debug\netcoreapp3.1\nomorLantai.pdb
+D:\Project\C#\nomorLantai\obj\Debug\netcoreapp3.1\nomorLantai.genruntimeconfig.cache
